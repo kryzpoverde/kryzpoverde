@@ -5,7 +5,8 @@
 📊 Aprendiendo análisis de datos con R y GitHub.  
 📍 De Chile 🇨🇱  
 
-<img src="2a972054847bc3f0412083ac13871873.jpg" width="250" align="right"/>
+<img src="https://github.com/kryzpoverde/kryzpoverde/raw/main/2a972054847bc3f0412083ac13871873.jpg" width="250" align="right"/>
+
 
 
 
